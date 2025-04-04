@@ -1,1 +1,4 @@
 generated_samples_fan/
+
+fan_discriminator.h5
+fan_generator.h5
