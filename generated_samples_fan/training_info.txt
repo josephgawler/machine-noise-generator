@@ -2,7 +2,7 @@ Machine Type: fan
 Dataset Size: 240 samples
 Normal Samples: 120
 Abnormal Samples: 120
-Training Epochs: 2000
+Training Epochs: 500
 Batch Size: 8
 Sample Rate: 16000
 Audio Length: 10s
