@@ -3,3 +3,4 @@ fan_discriminator.h5
 fan_generator.h5
 .venv
 /data
+/models
