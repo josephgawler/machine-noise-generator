@@ -1,0 +1,9 @@
+Machine Type: pump
+Dataset Size: 240 samples
+Normal Samples: 120
+Abnormal Samples: 120
+Training Epochs: 3000
+Batch Size: 8
+Sample Rate: 16000
+Audio Length: 5s
+Latent Dimension: 100
